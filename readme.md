@@ -2,7 +2,7 @@
 
 
 
-<a href="https://twitter.com/anurag12921" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/anurag-das-264703206/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+<a href="https://twitter.com/anurag12921" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/anurag-das-264703206/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 <a href="https://www.instagram.com/lost_ferdinand/" target="_blank"><img src="https://user-images.githubusercontent.com/64458868/139007412-d19d66a5-e265-4774-a045-22d038d2f0e4.png" height="120px" width="120px" alt="Instagram" align="right"></a>
 
 
