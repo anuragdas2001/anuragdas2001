@@ -42,7 +42,7 @@ DM me for any kind of collaboration or opportunities. You can also reach me out 
   <img height="40" src="https://img.shields.io/badge/MongoDB---?style=flat-square&logo=mongodb&logoColor=green&color=grey">
   <img height="40"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"><br>
 
-  <img height="40"  src="https://img.shields.io/badge/Git---?style=flat-square&logo=git&color=grey"><br>
+  <img height="40"  src="https://img.shields.io/badge/Git---?style=flat-square&logo=git&color=grey">
   
   
   <img height="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
